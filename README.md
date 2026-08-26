@@ -39,15 +39,7 @@ Preparing analysis-ready datasets
 
 Analysis & Visualization
 
-The project uses:
-
-Excel Tables
-PivotTables
-PivotCharts
-Slicers and Filters
-Conditional Formatting
-KPI Cards
-Interactive Dashboard
+The project uses: Excel Tables, PivotTables, PivotCharts, Slicers and Filters, Conditional Formatting, KPI Cards and Interactive Dashboard
 
 The dashboard enables users to dynamically analyze performance across different dimensions and identify important trends and business opportunities.
 
