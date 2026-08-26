@@ -28,11 +28,16 @@ Raw Data → Data Cleaning → Data Transformation → EDA → KPI Analysis → 
 Power Query was used for:
 
 Data cleaning and transformation
+
 Handling data inconsistencies
+
 Removing duplicates
+
 Standardizing data
+
 Preparing analysis-ready datasets
-📊 Analysis & Visualization
+
+Analysis & Visualization
 
 The project uses:
 
