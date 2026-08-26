@@ -25,21 +25,9 @@ Raw Data → Data Cleaning → Data Transformation → EDA → KPI Analysis → 
 
 🧹 Data Preparation
 
-Power Query was used for:
+Power Query was used for: Data cleaning and transformation, Handling data inconsistencies, Removing duplicates, Standardizing data, Preparing analysis-ready datasets and Analysis & Visualization.
 
-Data cleaning and transformation
-
-Handling data inconsistencies
-
-Removing duplicates
-
-Standardizing data
-
-Preparing analysis-ready datasets
-
-Analysis & Visualization
-
-The project uses: Excel Tables, PivotTables, PivotCharts, Slicers and Filters, Conditional Formatting, KPI Cards and Interactive Dashboard
+The project uses: Excel Tables, PivotTables, PivotCharts, Slicers and Filters, Conditional Formatting, KPI Cards & Interactive Dashboard
 
 The dashboard enables users to dynamically analyze performance across different dimensions and identify important trends and business opportunities.
 
